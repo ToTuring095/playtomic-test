@@ -1,0 +1,7 @@
+spring.profiles.active: develop
+spring:
+  application: 
+    name: wallet
+    max-amount-chargable: 100000
+server:
+  port: 8090
